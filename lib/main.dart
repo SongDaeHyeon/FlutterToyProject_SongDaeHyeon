@@ -19,7 +19,7 @@ class _AppState extends State<App> {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: const Text("To do List"),
+            title: const Text("List"),
           ),
           body: Builder(builder: (context) {
             return Center(
